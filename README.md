@@ -1,2 +1,3 @@
-#Computer Science OCR coursework
-#Tested and created by David Zhu
+# Computer Science OCR coursework
+
+## Tested and created by David Zhu
